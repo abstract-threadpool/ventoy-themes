@@ -2,10 +2,9 @@
 various themes for ventoy
 
 
-use https://github.com/Teraskull/bigsur-grub2-theme for reference
+https://github.com/Teknoist/fallout-ventoy-theme/tree/main used as inspiration
 
 #TODO 
-acid theme 
-fire theme
+start with 1 theme
 
 look at ventoy theme plugin 
